@@ -1,6 +1,5 @@
 #Local Events API Scraper
 
-
 ##Description
 
 This was my first foray in interacting with an API to retrieve JSON data.
